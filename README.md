@@ -3,7 +3,7 @@
 
 ![Shiva's first project view](https://github.com/user-attachments/assets/17c189ff-6b40-4632-b560-54a0e9ebc292)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+
 
 - [Demo Project](https://rahimitabarshiva.github.io/Shiva-s-first-project-/)
 
