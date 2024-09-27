@@ -1,7 +1,7 @@
 # Shiva's first project
 **This is my first project using HTML & CSS 🐣**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![Shiva's first project view](https://github.com/user-attachments/assets/17c189ff-6b40-4632-b560-54a0e9ebc292)
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
